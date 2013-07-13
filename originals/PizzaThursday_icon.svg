@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28"
+   height="28"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="PizzaThursday_icon.svg"
+   inkscape:export-filename="/home/kristina/code/pebble/pizza-thursday/resources/src/images/pizza_thursday.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="52.553243"
+     inkscape:cy="50.870379"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="824"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-111.40211,-407.08441)">
+    <rect
+       style="opacity:0.22633745;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3042"
+       width="28"
+       height="28"
+       x="111.40211"
+       y="407.08441" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="133.7963"
+       y="289.39923"
+       id="text3914"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3916"
+         x="133.7963"
+         y="289.39923" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="words"
+     transform="translate(-111.40211,-407.08441)">
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00000f;fill-opacity:0.94117647;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="115.59406"
+       y="416.96616"
+       id="text3993"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3995"
+         x="115.59406"
+         y="416.96616"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#00000f;fill-opacity:0.94117647;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans">Pizza</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="pizza"
+     transform="translate(-111.40211,-407.08441)">
+    <g
+       id="g4001"
+       transform="translate(0,-2)"
+       style="fill:#00000f;fill-opacity:0.94117647">
+      <path
+         style="fill:#00000f;fill-opacity:0.94117647"
+         id="path3004"
+         d="m 116.12527,428.86618 -1.18017,1.1798 c 2.53443,2.48608 5.99431,4.03039 9.81631,4.06845 l 4.2e-4,-1.66313 c -3.35769,-0.0383 -6.40161,-1.39906 -8.63658,-3.58512 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g3997"
+         style="fill:#00000f;fill-opacity:0.94117647">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 116.52825,428.46366 c 2.13164,2.08298 5.03327,3.37951 8.23322,3.41776 l 0.002,-11.65032 -8.23549,8.23256 z m 3.23209,0.67304 c -0.63644,0.15987 -1.28174,-0.22649 -1.44161,-0.86293 -0.15959,-0.63631 0.22649,-1.28174 0.86292,-1.44161 0.63591,-0.15942 1.28163,0.22677 1.44105,0.86268 0.16003,0.63684 -0.2258,1.2817 -0.86236,1.44186 z m 1.42624,-3.20017 c -0.15999,-0.63615 0.22628,-1.28048 0.86269,-1.44104 0.63615,-0.16 1.28145,0.22636 1.44116,0.86239 0.16004,0.63685 -0.22604,1.28228 -0.86235,1.44186 -0.63632,0.15959 -1.28187,-0.2262 -1.4415,-0.86321 z M 123.2879,430.7 c -0.63631,0.15959 -1.28158,-0.22608 -1.44104,-0.86268 -0.15999,-0.63615 0.22608,-1.28158 0.8628,-1.44133 0.63591,-0.15942 1.28118,0.22624 1.44076,0.86256 0.16016,0.63656 -0.22591,1.28199 -0.86252,1.44145 z"
+           id="path2994"
+           style="fill:#00000f;fill-opacity:0.94117647" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 127.04669,431.88135 c 3.19992,-0.0369 6.10216,-1.33221 8.2346,-3.41426 l -8.23191,-8.23622 -0.003,11.65048 z m 5.28814,-5.21415 c 0.65554,0.027 1.16482,0.58074 1.13781,1.23628 -0.0274,0.65569 -0.58103,1.16469 -1.23644,1.13739 -0.65582,-0.0271 -1.16469,-0.58102 -1.13712,-1.23631 0.027,-0.65553 0.58022,-1.16437 1.23575,-1.13736 z m -2.9387,-2.5008 c 0.65553,0.027 1.16469,0.58103 1.13687,1.23689 -0.027,0.65553 -0.5805,1.16425 -1.23604,1.13724 -0.65516,-0.0279 -1.16441,-0.58091 -1.13699,-1.2366 0.027,-0.65554 0.58074,-1.16482 1.23616,-1.13753 z m -0.47441,3.92734 c 0.65529,0.0276 1.16482,0.58075 1.13744,1.23713 -0.0267,0.65566 -0.5805,1.16425 -1.23603,1.13724 -0.65545,-0.028 -1.16429,-0.58119 -1.13712,-1.23632 0.0271,-0.65582 0.58034,-1.16465 1.23571,-1.13805 z"
+           id="path3002"
+           style="fill:#00000f;fill-opacity:0.94117647" />
+      </g>
+      <path
+         style="fill:#00000f;fill-opacity:0.94117647"
+         id="path3008"
+         d="m 127.04667,432.4514 -4.2e-4,1.66312 c 3.82172,-0.0366 7.2821,-1.57931 9.81794,-4.06403 l -1.1798,-1.18017 c -2.2361,2.18513 -5.28046,3.54437 -8.63771,3.58108 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
