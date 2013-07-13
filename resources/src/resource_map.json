@@ -5,12 +5,12 @@
     {
       "type":"png",
       "defName":"IMAGE",
-      "file":"images/PowerSave.png"
+      "file":"images/PizzaThursday.png"
     },
     {
       "type": "png",
       "defName": "IMAGE_MENU_ICON",
-      "file": "images/PowerSave_icon.png"
+      "file": "images/PizzaThursday_icon.png"
     }
-	  ]
+      ]
 }
