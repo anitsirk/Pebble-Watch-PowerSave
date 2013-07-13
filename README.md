@@ -1,7 +1,7 @@
 Watchface: Pizza Thursday
 ============================
 
-A watchface for the Pebble watch that does nothing but display "Pizza Thursday". It was created for the monthly Pizza Thursday at Catalyst IT.
+A watchface for the Pebble watch that does nothing but display "Pizza Thursday". It was created for the monthly Pizza Thursday at Catalyst IT http://catalyst.net.nz .
 
 ![Alt text](/resources/src/images/PizzaThursday.png "Pizza Thursday")
 
